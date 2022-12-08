@@ -94,20 +94,22 @@ form {
 form [type="submit"] {
     height: 50px;
     width: 50%;
-    background-color: #9d4edd;
+    background-color: #a358e4;
     font-weight: bold;
     color: #fff;
     cursor: pointer;
 }
 
 form [type="submit"]:hover {
-    background-color: #dee2e6;
-    color: #9d4edd;
+    background-color: #eb84aa;
+    color: #fff;
     transition: all 0.5s ease-in-out;
 }
 
 form [type="submit"]:active {
-    transform: translateY(10px);
+    background-color: #eb84aa;
+    color: #fff;
+    transform: translateY(10px); 
 }
 
 input {
