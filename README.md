@@ -22,7 +22,8 @@ nós preferirmos , então eu fiz o Anime Center e adicionei outras funcionalidad
 ## 🖼️ Layout
 https://betafontes.github.io/anime-newslatter/
 
-![image](https://user-images.githubusercontent.com/70981960/206579367-46f2916c-485b-4674-a22d-85e327edda25.png)
+![image](https://user-images.githubusercontent.com/70981960/206583280-6031a03a-c188-4334-ad0e-46ad6b78f167.png)
+
 
 
 
