@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;400;700&display=swap');
+
+body {
+    background-color: rgb(34, 34, 34);
+    color:#fff2ef;
+    font-family: "Spartan", sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+header {
+display: flex;
+justify-content: row;
+justify-content: space-between;
+align-items: center;
+}
+
+
+.logo-principal {
+  display: flex;
+  justify-content: row;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.logo-principal h1 {
+    line-height: 30px;
+    font-weight: 200;
+    color: #f0edfa;
+}
+
+.logo-principal img {
+    height: 70px;
+    margin-top: 8px;
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+a {
+    color: #fff2ef;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffafcc;
+    transition: 0.3s all;
+}
+
+#inscreva-se-btn {
+    border: 2px solid #bf8deb;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#inscreva-se-btn:hover {
+    color: #bf8deb;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;  
+    gap: 180px;
+}
+
+h2 {
+    font-size: 56px;
+    line-height: 10px;
+}
+
+span {
+    color:#ffafcc;
+}
+
+p {
+    line-height: 20px;
+    max-width: 500px;
+}
+
+strong {
+    color: #fdbbcf;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+form [type="submit"] {
+    height: 50px;
+    width: 50%;
+    background-color: #9d4edd;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+
+form [type="submit"]:hover {
+    background-color: #dee2e6;
+    color: #9d4edd;
+    transition: all 0.5s ease-in-out;
+}
+
+form [type="submit"]:active {
+    transform: translateY(10px);
+}
+
+input {
+    margin-top: 20px;
+    height: 20px;
+    padding: 15px;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+   font-size: 15px; 
+}
+
+.input-area input {
+    border: 1px solid #999;
+}
+
+.input-area input:focus,
+.input-area input.active {
+    border: 2px solid #9d4edd;
+}
+
+.input-area input::placeholder {
+    color: #8a817c;
+}
+   
+.imagem-logo {
+    height: 400px;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 32px;
+    color: #fff2ef;
+    font-size: 13px;
+}
+
