@@ -20,7 +20,6 @@ Esse repositório foi desenvolvido inspirado no video da Landing Page do canal A
 nós preferirmos , então eu fiz o Anime Center e adicionei outras funcionalidades e estilo através do CSS , para a página ficar mais atrativa e totalmente responsiva!!
 
 ## 🖼️ Layout
-https://betafontes.github.io/anime-newslatter/
 
 ![image](https://user-images.githubusercontent.com/70981960/206583280-6031a03a-c188-4334-ad0e-46ad6b78f167.png)
 
